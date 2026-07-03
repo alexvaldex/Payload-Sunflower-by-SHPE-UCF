@@ -1,7 +1,10 @@
 # Payload-Sunflower-by-SHPE-UCF
 This is the complete repository of Payload Sunflower, the payload that flew and competed in ESRA International Rocket Engineering Competition (IREC) 2026. <br>
 <br>
-This repository is brought to you by Society of Hispanic Professional Engineers (SHPE) @ University of Central Florida (UCF)<br>
+If you're attempting to build this for yourself as a project for your portfolio and need any help, reach out to:<br>
+alex.valdez.eng@gmail.com<br>
+<br>
+Society of Hispanic Professional Engineers (SHPE) @ University of Central Florida (UCF)<br>
 <br>[Bill of Materials](https://ucf-my.sharepoint.com/:x:/g/personal/al937430_ucf_edu/IQBaw68e3dfbR589fPdcr_M_Ad2k--_CuSnMzihDWhU1q8U?e=c1oJPQ)<br>
 <br>
 <img width="768" height="1024" alt="399D6B0D-42FC-4231-8999-3ABBD1838D2E_1_105_c" src="https://github.com/user-attachments/assets/f392f52e-cb32-4c1f-ab45-587de89fd088" /><br>
