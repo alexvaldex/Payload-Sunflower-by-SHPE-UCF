@@ -3,6 +3,7 @@ This is the complete repository of Payload Sunflower, the payload that flew and 
 <br>
 If you're attempting to build this yourself as a project for your portfolio and need any help, reach out to:<br>
 alex.valdez.eng@gmail.com<br>
+mathiasmtrillo@gmail.com<br>
 <br>
 <br>[Bill of Materials](https://ucf-my.sharepoint.com/:x:/g/personal/al937430_ucf_edu/IQBaw68e3dfbR589fPdcr_M_Ad2k--_CuSnMzihDWhU1q8U?e=c1oJPQ)<br>
 <br>Society of Hispanic Professional Engineers (SHPE) @ University of Central Florida (UCF)<br>
